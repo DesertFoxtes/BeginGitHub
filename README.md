@@ -1,8 +1,9 @@
 This is first repository 
 
-# Index 
-[Basic writing and formatting syntax](#Basic writing and formatting syntax )
-[Process](#Process git)
+#Summary
+
+[Basic writing and formatting syntax](#Summary)
+
 
 
 ##Basic writing and formatting syntax 
@@ -42,7 +43,8 @@ This is second line.
 ```
 
 
-### d. 
+### d. Keyboard input
+<kbd>ALT + F4</kbd> 
 
 
 ##Process git

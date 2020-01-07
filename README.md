@@ -12,14 +12,10 @@ This is first repository
 - [Process git](#Process-git)
 
 
-## Basic writing and formatting syntax 
+## Basic writing and formatting syntax ##
 **Description :** The section introduces the basic tags and syntax on [github.com](https//github.com) to create a description 
 
 ### a. Insert code 
----
-___
-===
-...
 **- Example :** Insert comment 
 ```
 This section contains code or comments

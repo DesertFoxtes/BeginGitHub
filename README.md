@@ -63,13 +63,13 @@ This is second line.
 **- Example :** Go to : [google.com](https://google.com) 
 
 ### g. Style text
-#### Bold 
-**- Syntax :** \**[text]**  or \__[text]__<br/>
-**- Example :** **This is bold text**
+	#### Bold 
+	**- Syntax :** \**[text]**  or \__[text]__<br/>
+	**- Example :** **This is bold text**
 
-#### Italic
-**- Syntax :** \*[text]* or \_[text]_ <br/>
-**- Example :** *This text is italicized*
+	#### Italic
+	**- Syntax :** \*[text]* or \_[text]_ <br/>
+	**- Example :** *This text is italicized*
 
 ### h. Highlighting
 **- Syntax :** \`[title highlighting]\` <br/>

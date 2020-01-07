@@ -5,6 +5,7 @@ This is first repository
 - [Basic writing and formatting syntax](#Basic-writing-and-formatting-syntax)
 	- [Insert code](#a-Insert-code)
 	- [New Line](#b-New-Line)
+	- [Keyboard input](#d-Keyboard-input)
 - [Process git](#Process-git)
 
 
@@ -34,21 +35,26 @@ int main(){
 ```
 
 
-### b. New Line 
+### b. New line 
 **- Syntax :** \<br/> <br/>
 **- Example :**
 
 ```
 This is first line 
 This is second line.
-
 ```
 
 
 ### d. Keyboard input
+**- Syntax :** \[Title link](#link) <br/>
+**- Example :** <br>
+Go to : [google.com](#https://google.com) 
+
+### d. Link
 **- Syntax :** \<kbd>[Keyboard]\</kbd> <br/>
 **- Example :**
 <kbd>ALT + F4</kbd> 
+
 
 
 ## Process git

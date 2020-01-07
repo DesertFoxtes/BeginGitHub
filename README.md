@@ -6,6 +6,7 @@ This is first repository
 	- [Insert code](#a-Insert-code)
 	- [New Line](#b-New-Line)
 	- [Keyboard input](#d-Keyboard-input)
+	- [Link](#e-Link)
 - [Process git](#Process-git)
 
 
@@ -44,16 +45,15 @@ This is first line
 This is second line.
 ```
 
-
 ### d. Keyboard input
-**- Syntax :** \[Title link](#link) <br/>
-**- Example :** <br>
-Go to : [google.com](#https://google.com) 
-
-### d. Link
 **- Syntax :** \<kbd>[Keyboard]\</kbd> <br/>
 **- Example :**
 <kbd>ALT + F4</kbd> 
+
+### e. Link
+**- Syntax :** \[Title link](link) <br/>
+**- Example :** Go to : [google.com](https://google.com) 
+
 
 
 

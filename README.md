@@ -10,11 +10,11 @@ This is first repository
 This section contains code or comments
 ```
 If you insert code programming language :<br/>
-**- Syntax : ** 
+**- Syntax :** 
 ``` 
 ```[Language]
 	code here 
-```
+\```
 ``` 
 
 **- Example :** Insert code > C programming language

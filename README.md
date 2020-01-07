@@ -18,7 +18,6 @@ Some basic Git commands are:
 	git add
 	git commit
 ```
-```
 
 **- Example :** Insert code > C programming language
 ```C

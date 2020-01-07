@@ -1,7 +1,7 @@
 This is first repository 
 
 
-## 1.First `>` Basic writing and formatting syntax 
+## 1.First : Basic writing and formatting syntax 
 **Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
 
 ### a. Insert code 
@@ -12,8 +12,11 @@ This section contains code or comments
 If you insert code programming language :<br/>
 **- Syntax :** <br/>
 ```
-\```[Language]
-	code here 
+Some basic Git commands are:
+``` Language
+	git status
+	git add
+	git commit
 ```
 ```
 

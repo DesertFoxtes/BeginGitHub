@@ -11,19 +11,17 @@ This section contains code or comments
 ```
 If you insert code programming language :
 **Syntax : **  
-```
 ```[language]
 ```
-```
+
 
 **Example :** C programming language
-```
 ```C
-	int main(){
-		print('Hello words !');
-	}
+int main(){
+    print('Hello words !');
+}
 ```
-```\
+
 
 ### 2. New Line 
 **Syntax :** \<br/>

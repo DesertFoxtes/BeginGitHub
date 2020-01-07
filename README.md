@@ -17,6 +17,9 @@ This is first repository
 
 ### a. Insert code 
 ---
+___
+===
+...
 **- Example :** Insert comment 
 ```
 This section contains code or comments

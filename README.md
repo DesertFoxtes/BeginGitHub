@@ -11,10 +11,11 @@ This section contains code or comments
 ```
 If you insert code programming language :<br/>
 **- Syntax :** <br/>
-\```[Language]
+```
+```[Language]
 	code here 
 ```
-
+```
 
 **- Example :** Insert code > C programming language
 ```C

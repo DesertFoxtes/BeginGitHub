@@ -1,21 +1,18 @@
 This is first repository 
 
 
-## First `>` Basic writing and formatting syntax 
+## 1.First `>` Basic writing and formatting syntax 
 **Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
 
-### 1. Insert code 
+### a. Insert code 
 **Example :**
 ```
 This section contains code or comments
 ```
-If you insert code programming language :
-**Syntax : **  
-```[language]
-```
+If you insert code programming language :<br/>
+**- Syntax : ** \``` [Language] \``` 
 
-
-**Example :** C programming language
+**- Example :** C programming language
 ```C
 int main(){
     print('Hello words !');
@@ -23,15 +20,18 @@ int main(){
 ```
 
 
-### 2. New Line 
-**Syntax :** \<br/>
-**Example :**
+### b. New Line 
+**- Syntax :** \<br/> <br/>
+**- Example :**
+
 ```
-This is first line <br/> This is second line.
+This is first line 
+This is second line.
+
 ```
 
 
-### 3. 
-### 3. 
+### d. 
 
-## Second Process
+
+## 2.Second Process

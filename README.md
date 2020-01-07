@@ -14,7 +14,7 @@ If you insert code programming language :<br/>
 ```
 ```[Language]
 	code here 
-```
+\```
 ```
 
 **- Example :** Insert code > C programming language

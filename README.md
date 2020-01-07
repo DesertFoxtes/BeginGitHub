@@ -72,16 +72,16 @@ This is second line.
 **- Example :** *This text is italicized*
 
 ### h. Highlighting
-**- Syntax :** \`[title highlighting]`
+**- Syntax :** \`[title highlighting]\` <br/>
 **- Example :** Inline `code` has `back-ticks around` it.
 
 
-### h. Tab
-**- Syntax :** \tab
+### i. Tab
+**- Syntax :** \tab <br/>
 **- Example :** 
 
 this is a normal line of text
-  * this is the first level of bullet points, made up of <space><space>*<space>
-    * this is more indented, composed of <space><space><space><space>*<space>
+		this is the first level of bullet points, made up of 
+		this is more indented, composed of
 
 ## Process git

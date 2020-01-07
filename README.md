@@ -6,12 +6,14 @@ This is first repository
 	- [Insert code](#a-Insert-code)
 	- [New Line](#b-New-Line)
 	- [Keyboard input](#d-Keyboard-input)
-	- [Link](#e-Link)
+	- [Blockquote](#e-Blockquote)
+	- [Link](#f-Link)
+	- [Style text](#g-Style-text)
 - [Process git](#Process-git)
 
 
 ## Basic writing and formatting syntax 
-**Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
+**Description :** The section introduces the basic tags and syntax on [github.com](https//github.com) to create a description 
 
 ### a. Insert code 
 **- Example :** Insert comment 
@@ -50,10 +52,24 @@ This is second line.
 **- Example :**
 <kbd>ALT + F4</kbd> 
 
-### e. Link
+### e. Blockquote
+**- Syntax :** \> [quote] <br/>
+**- Example :**
+> Hello words: This is blockquote 
+
+
+### f. Link
 **- Syntax :** \[Title link](link) <br/>
 **- Example :** Go to : [google.com](https://google.com) 
 
+### g. Style text
+#### Bold 
+**- Syntax :** \**[text]**  or \__[text]__<br/>
+**- Example :** ** This is bold text **
+
+#### Italic
+**- Syntax :** \*[text]* or _[text]_
+**- Example :** *This text is italicized*
 
 
 

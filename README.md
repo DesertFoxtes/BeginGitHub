@@ -81,8 +81,8 @@ This is second line.
 **- Example :** 
 
 This is a normal line of text<br/>
-<space>This is the first level of bullet points, made up of <br/>
-<space>This is more indented, composed of <br/>
+>This is the first level of bullet points, made up of <br/>
+>This is more indented, composed of <br/>
 
 
 > ### j. Tab

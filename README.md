@@ -1,8 +1,8 @@
 This is first repository 
 
 # Index 
-- [Basic writing and formatting syntax](#1. Basic writing and formatting syntax )
-- [Process](#2. Process git)
+- [Basic writing and formatting syntax](##1. Basic writing and formatting syntax )
+- [Process](##2. Process git)
 
 
 ##1. Basic writing and formatting syntax 

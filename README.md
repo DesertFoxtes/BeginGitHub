@@ -1,11 +1,11 @@
 This is first repository 
 
 # Index 
-- [Basic writing and formatting syntax](##1. Basic writing and formatting syntax )
-- [Process](##2. Process git)
+- [Basic writing and formatting syntax](##Basic writing and formatting syntax )
+- [Process](##Process git)
 
 
-##1. Basic writing and formatting syntax 
+##Basic writing and formatting syntax 
 **Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
 
 ### a. Insert code 
@@ -45,4 +45,4 @@ This is second line.
 ### d. 
 
 
-##2. Process git
+##Process git

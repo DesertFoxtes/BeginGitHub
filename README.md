@@ -6,7 +6,7 @@ This is first repository
 
 
 
-##Basic writing and formatting syntax 
+## Basic writing and formatting syntax 
 **Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
 
 ### a. Insert code 
@@ -47,4 +47,4 @@ This is second line.
 <kbd>ALT + F4</kbd> 
 
 
-##Process git
+## Process git

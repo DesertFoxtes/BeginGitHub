@@ -80,8 +80,8 @@ This is second line.
 **- Syntax :** \tab <br/>
 **- Example :** 
 
-This is a normal line of text
-<space>This is the first level of bullet points, made up of 
-<space>This is more indented, composed of
+This is a normal line of text<br/>
+<space>This is the first level of bullet points, made up of <br/>
+<space>This is more indented, composed of <br/>
 
 ## Process git

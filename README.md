@@ -46,7 +46,7 @@ This is second line.
 
 
 ### d. Keyboard input
-**- Syntax :** \<kbd>ALT + F4 \</kbd> 
+**- Syntax :** \<kbd>[Keyboard]\</kbd> <br/>
 **- Example :**
 <kbd>ALT + F4</kbd> 
 

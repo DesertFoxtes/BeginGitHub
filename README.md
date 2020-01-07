@@ -14,7 +14,7 @@ If you insert code programming language :
 ```
 ```[language]
 ```
-```\
+```
 
 **Example :** C programming language
 ```
@@ -25,9 +25,15 @@ If you insert code programming language :
 ```
 ```\
 
-### 2. 
+### 2. New Line 
+**Syntax :** \<br/>
+**Example :**
+```
+This is first line <br/> This is second line.
+```
 
 
+### 3. 
 ### 3. 
 
 ## Second Process

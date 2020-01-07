@@ -8,7 +8,7 @@ This is first repository
 **Example :**
 ```
 This section contains code or comments
-```\
+```
 If you insert code programming language :
 **Syntax : **  
 ```

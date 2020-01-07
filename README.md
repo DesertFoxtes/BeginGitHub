@@ -4,7 +4,7 @@ This is first repository
 
 - [Basic writing and formatting syntax](#Basic-writing-and-formatting-syntax)
 	- [Insert code](#a-Insert-code)
-	- [New Line](#b-New-Line)
+	- [Line Breaks](#b-Line-Breaks)
 	- [Keyboard input](#d-Keyboard-input)
 	- [Blockquote](#e-Blockquote)
 	- [Link](#f-Link)
@@ -38,7 +38,7 @@ int main(){
 ```
 
 
-### b. New line 
+### b. Line Breaks
 **- Syntax :** \<br/> <br/>
 **- Example :**
 
@@ -64,13 +64,24 @@ This is second line.
 
 ### g. Style text
 #### Bold 
-**- Syntax :** \**[text]**  or \__[text]__
+**- Syntax :** \**[text]**  or \__[text]__<br/>
 **- Example :** **This is bold text**
 
 #### Italic
-**- Syntax :** \*[text]* or \_[text]_
+**- Syntax :** \*[text]* or \_[text]_ <br/>
 **- Example :** *This text is italicized*
 
+### h. Highlighting
+**- Syntax :** \`[title highlighting]`
+**- Example :** Inline `code` has `back-ticks around` it.
 
+
+### h. Tab
+**- Syntax :** \tab
+**- Example :** 
+
+this is a normal line of text
+  * this is the first level of bullet points, made up of <space><space>*<space>
+    * this is more indented, composed of <space><space><space><space>*<space>
 
 ## Process git

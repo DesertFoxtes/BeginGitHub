@@ -2,7 +2,7 @@ This is first repository
 
 # Summary
 
-- [Basic writing and formatting syntax](#Basic-writing-and-formatting-syntax)
+- [Basic writing and formatting syntax](#Basic writing and formatting syntax)
 
 
 

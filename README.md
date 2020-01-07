@@ -16,6 +16,7 @@ This is first repository
 **Description :** The section introduces the basic tags and syntax on [github.com](https//github.com) to create a description 
 
 ### a. Insert code 
+---
 **- Example :** Insert comment 
 ```
 This section contains code or comments

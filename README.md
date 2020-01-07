@@ -81,14 +81,9 @@ This is second line.
 **- Example :** 
 
 This is a normal line of text<br/>
->This is the first level of bullet points, made up of <br/>
->This is more indented, composed of <br/>
-
-
-> ### j. Tab
->
-> This is blockquoted text.
->
-> This is a second paragraph within the blockquoted text.
+	This is the first level of bullet points, made up of <br/>
+This is more indented, composed of <br/>
+This is blockquoted text.
+This is a second paragraph within the blockquoted text.
 
 ## Process git

@@ -55,20 +55,20 @@ This is second line.
 ### e. Blockquote
 **- Syntax :** \> [quote] <br/>
 **- Example :**
-> Hello words: This is blockquote 
+> Description : The section introduces the basic tags and syntax on github.com to create a description
 
 
 ### f. Link
-**- Syntax :** \[Title link](link) <br/>
+**- Syntax :** \[Title link](link)
 **- Example :** Go to : [google.com](https://google.com) 
 
 ### g. Style text
 #### Bold 
-**- Syntax :** \**[text]**  or \__[text]__<br/>
-**- Example :** ** This is bold text **
+**- Syntax :** \**[text]**  or \__[text]__
+**- Example :** **This is bold text**
 
 #### Italic
-**- Syntax :** \*[text]* or _[text]_
+**- Syntax :** \*[text]* or \_[text]_
 **- Example :** *This text is italicized*
 
 

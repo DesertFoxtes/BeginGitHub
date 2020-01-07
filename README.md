@@ -5,18 +5,19 @@ This is first repository
 **Description :** The section introduces the basic tags and syntax on [github.com](https//:github.com) to create a description 
 
 ### a. Insert code 
-**Example :**
+**- Example :** Insert comment 
 ```
 This section contains code or comments
 ```
 If you insert code programming language :<br/>
 **- Syntax : ** 
 ``` 
-\``` [Language] \```
-
+```[Language]
+	code here 
+```
 ``` 
 
-**- Example :** C programming language
+**- Example :** Insert code > C programming language
 ```C
 int main(){
     print('Hello words !');

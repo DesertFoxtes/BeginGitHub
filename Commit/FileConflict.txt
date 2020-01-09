@@ -1,3 +1,5 @@
 This is file conflict
 
 user 1 - add file
+user2 - add text 
+

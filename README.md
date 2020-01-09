@@ -87,3 +87,52 @@ This is blockquoted text.
 This is a second paragraph within the blockquoted text.
 
 ## Process git
+
+- Commit :
+```
+	git add . 
+	git commit -m "<msg commit>"
+	// If push remote server 
+	git push origin "branch or master"
+```
+- Branch :
+```
+ - Create branch :
+	> git branch -b [branch name] 
+ - Delete branch :
+	> git branch -d [branch name]
+```
+- Merge  :
+```
+ - Merge branch1 to master
+	> get meger [name branch]
+```
+- fetch and pull :
+Diff : pull = get update remote server + meger != fetch  = get update remote server
+```
+ - Pull 
+	> git pull [remote name] [remote branch]
+ - Fetch 
+	> git fetch [remote name] [remote branch]
+ - Get branch Fetch 
+	> git branch -a 
+```
+
+- stash
+```
+ - Save stash 
+	> git add .
+	> git stash # or git stash save
+	> git stash list >"Show list stash saved"
+	> git stash list -p > "Show content change"
+	> git stash show "stash@{n}" > "Show detail content change"
+	> git stash apply "stash@{n}" > "Revert state"
+	> git stash pop 
+	> git stash drop "stash@{n}" > "Remove in list stash"
+	> git stash clear  > "Remove all stash"
+```
+- Revert
+```	
+	> git revert [commit-hash-code]
+	> git reset --hard [commit-hash-code]
+```

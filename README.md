@@ -121,18 +121,18 @@ Diff : pull = get update remote server + meger != fetch  = get update remote ser
 - stash
 ```
  - Save stash 
-	>git add .
-	>git stash # or git stash save
-	>git stash list >"Show list stash saved"
-	>git stash list -p > "Show content change"
-	>git stash show "stash@{n}" > "Show detail content change"
-	>git stash apply "stash@{n}" > "Revert state"
-	>git stash pop 
-	>git stash drop "stash@{n}" > "Remove in list stash"
-	>git stash clear  > "Remove all stash"
+	> git add .
+	> git stash # or git stash save
+	> git stash list >"Show list stash saved"
+	> git stash list -p > "Show content change"
+	> git stash show "stash@{n}" > "Show detail content change"
+	> git stash apply "stash@{n}" > "Revert state"
+	> git stash pop 
+	> git stash drop "stash@{n}" > "Remove in list stash"
+	> git stash clear  > "Remove all stash"
 ```
 - Revert
 ```	
-	>git revert [commit-hash-code]
-	>git reset --hard [commit-hash-code]
+	> git revert [commit-hash-code]
+	> git reset --hard [commit-hash-code]
 ```
